@@ -42,15 +42,10 @@ If you'd like to contribute to this project, please follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request to the original repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - This project was created as a demo for infinite scrolling in React.
 - Mock data is used for demonstration purposes.
 - Styling is based on the provided design specifications.
 
-Feel free to customize this README to include any additional information specific to your project. Good luck with your React application!
 ```
